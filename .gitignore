@@ -1,0 +1,10 @@
+smallpot.test.ini
+smallpot.log
+venv
+*.egg-info
+dist/
+__pycache__
+*.pyc
+.idea
+*.deb
+_build
